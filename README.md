@@ -2,9 +2,9 @@
 Grafkom Gaming
 
 # Role
-Game Design    : Fathan
-Game Programer : Ferdi
-Game Artist    : Ian
+- Game Design    : Fathan
+- Game Programer : Ferdi
+- Game Artist    : Ian
 
 # Team
 1. Fransiscus Prihandisha Triandi   (G64180081)
