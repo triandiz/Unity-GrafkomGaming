@@ -39,6 +39,8 @@ Grafkom Gaming
     <td>
       Fathan Mubina Sarjoko
     </td>
+    <td>
+      Designer, Programmer
     </tr>
     <tr>
       <td>
@@ -47,6 +49,8 @@ Grafkom Gaming
     <td>
     	Ferdi Bernaldo Manuel Erari
     </td>
+    <td>
+      Designer, Artist
 </table>
 
 ## Tech-Stack
