@@ -31,18 +31,18 @@ Grafkom Gaming
   </tr>
   <tr>
     <td>
-      Visual Studio Code
+      G64180107
     </td>
     <td>
-      Mengetik script menggunakan bahasa C#
+      Fathan Mubina Sarjoko
     </td>
     </tr>
     <tr>
       <td>
-      Prosesor
+      G64180112
     </td>
     <td>
-    	Intel Core i7-8550u (6M Cache, up to 3.80 GHz)
+    	Ferdi Bernaldo Manuel Erari
     </td>
 </table>
 
