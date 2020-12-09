@@ -17,15 +17,17 @@ Grafkom Gaming
     NIM
   </th>
   <th>
-    Fungsi
+    Nama
+  </th>
+  <th>
+    Role
   </th>
   <tr>
     <td>
-      Unity 2019.4.13f1
+      G64180081
     </td>
     <td>
-      Mengatur pembuatan game, pengolahan aset, penggunaan script, dan berkolaborasi
-    </td>
+      Fransiscus Prihandisha Triandi
   </tr>
   <tr>
     <td>
