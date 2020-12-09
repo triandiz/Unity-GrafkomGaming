@@ -28,6 +28,9 @@ Grafkom Gaming
     </td>
     <td>
       Fransiscus Prihandisha Triandi
+    </td>
+    <td>
+      Artist, Programmer
   </tr>
   <tr>
     <td>
