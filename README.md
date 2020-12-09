@@ -20,7 +20,7 @@ Grafkom Gaming
       Fransiscus Prihandisha Triandi
     </td>
     <td>
-      Artist, Programmer
+      Artist, Coder
   </tr>
   <tr>
     <td>
@@ -30,7 +30,7 @@ Grafkom Gaming
       Fathan Mubina Sarjoko
     </td>
     <td>
-      Designer, Programmer
+      Designer, Coder
     </tr>
     <tr>
       <td>
