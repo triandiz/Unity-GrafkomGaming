@@ -1,5 +1,16 @@
 # Uno Stacko / Menumpuk Kotak Uno
 
+## Kelompok 16 P2 Grafika Komputer
+
+Anggota Kelompok :
+- Fransiscus Prihandisha Triandi (G64180081)
+- Fathan Mubina Sarjoko (G64180107)
+- Ferdi B. M. Erari (G64180112)
+
+Asisten Praktikum :
+- Fathiya
+- Friska Meilani
+
 ## Story
 Anda menjadi seorang pemain yang merupakan seorang kontraktor yang ingin membangun Uno Tower dengan menggunakan Kotak Uno.
 
