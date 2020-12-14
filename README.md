@@ -22,6 +22,7 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
 - Pemain harus menumpuk Kotak Uno sebanyak mungkin.
 - Pemain dinyatakan gagal bila pemain menjatuhkan Kotak Uno tersebut ke sebuah lahan (bukan diatas Kotak Uno).
 - Pemain dinyatakan gagal bila menara Uno telah rubuh dan banyak kotak yang telah menyentuh lahan.
+- Permainan dinyatakan berakhir/game over bila pemain gagal membangun menara Uno, namun pemain bisa restart untuk bermain lagi 
 
 ## Team & Role
 <table>
