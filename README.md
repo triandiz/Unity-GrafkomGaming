@@ -1,5 +1,5 @@
 # Projek Grafkom Game :
-Grafkom Gaming
+Uno Stacko
 
 ## Team & Role
 <table>
@@ -30,7 +30,7 @@ Grafkom Gaming
       Fathan Mubina Sarjoko
     </td>
     <td>
-      Designer, Coder
+      Designer, Artist
     </tr>
     <tr>
       <td>
