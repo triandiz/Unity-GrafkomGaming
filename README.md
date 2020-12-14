@@ -1,5 +1,16 @@
-# Projek Grafkom Game :
-Uno Stacko
+# Uno Stacko / Menumpuk Kotak Uno
+
+## Story
+Anda menjadi seorang pemain yang merupakan seorang kontraktor yang ingin membangun Uno Tower dengan menggunakan Kotak Uno.
+
+## Goals
+Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
+
+## Rules
+- Pemain dapat mengeklik untuk menjatuhkan Kotak Uno tepat menumpuk diatas Kotak Uno yang telah tersedia di lahan.
+- Pemain harus menumpuk Kotak Uno sebanyak mungkin.
+- Pemain dinyatakan gagal bila pemain menjatuhkan Kotak Uno tersebut ke sebuah lahan (bukan diatas Kotak Uno).
+- Pemain dinyatakan gagal bila menara Uno telah rubuh dan banyak kotak yang telah menyentuh lahan.
 
 ## Team & Role
 <table>
@@ -42,6 +53,12 @@ Uno Stacko
     <td>
       Artist
 </table>
+
+## List Aset 
+- Background
+- Lahan/Landasan
+- Kotak Uno/Box
+- Tombol Restart
 
 ## Tech-Stack
 <table>
