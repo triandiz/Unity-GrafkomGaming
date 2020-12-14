@@ -20,7 +20,7 @@ Uno Stacko
       Fransiscus Prihandisha Triandi
     </td>
     <td>
-      Artist, Coder
+      Designer, Coder
   </tr>
   <tr>
     <td>
@@ -30,7 +30,7 @@ Uno Stacko
       Fathan Mubina Sarjoko
     </td>
     <td>
-      Designer, Artist
+      Artist
     </tr>
     <tr>
       <td>
@@ -40,7 +40,7 @@ Uno Stacko
     	Ferdi Bernaldo Manuel Erari
     </td>
     <td>
-      Designer, Artist
+      Artist
 </table>
 
 ## Tech-Stack
