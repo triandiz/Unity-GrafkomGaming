@@ -31,7 +31,7 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
       Fransiscus Prihandisha Triandi
     </td>
     <td>
-      Designer, Coder
+      Designer, Artist, Coder
   </tr>
   <tr>
     <td>
@@ -41,7 +41,7 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
       Fathan Mubina Sarjoko
     </td>
     <td>
-      Artist
+      Designer, Artist
     </tr>
     <tr>
       <td>
@@ -51,7 +51,7 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
     	Ferdi Bernaldo Manuel Erari
     </td>
     <td>
-      Artist
+      Designer, Artist
 </table>
 
 ## List Aset 
