@@ -1,4 +1,5 @@
 # Uno Stacko / Menumpuk Kotak Uno
+Game Uno Stacko yang telah kami rancang yang bertujuan untuk memenuhi tugas akhir mata kuliah Grafika Komputer.
 
 ## Kelompok 16 P2 Grafika Komputer
 
@@ -43,7 +44,7 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
       Fransiscus Prihandisha Triandi
     </td>
     <td>
-      Designer, Artist, Coder
+      Designer, Coder
   </tr>
   <tr>
     <td>
@@ -53,7 +54,7 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
       Fathan Mubina Sarjoko
     </td>
     <td>
-      Designer, Artist
+      Artist
     </tr>
     <tr>
       <td>
@@ -63,7 +64,7 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
     	Ferdi Bernaldo Manuel Erari
     </td>
     <td>
-      Designer, Artist
+      Artist
 </table>
 
 ## List Aset 
