@@ -3,7 +3,7 @@ Game Uno Stacko yang telah kami rancang yang bertujuan untuk memenuhi tugas akhi
 
 ## Kelompok 16 P2 Grafika Komputer
 
-Anggota Kelompok :
+Anggota Tim :
 - Fransiscus Prihandisha Triandi (G64180081)
 - Fathan Mubina Sarjoko (G64180107)
 - Ferdi B. M. Erari (G64180112)
@@ -25,7 +25,7 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
 - Pemain dinyatakan gagal bila menara Uno telah rubuh dan banyak kotak yang telah menyentuh lahan.
 - Permainan dinyatakan berakhir/game over bila pemain gagal membangun menara Uno, namun pemain bisa restart untuk bermain lagi 
 
-## Team & Role
+## Developer
 <table>
   <th>
     NIM
