@@ -91,7 +91,7 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
   </tr>
   <tr>
     <td>
-      Visual Studio Code
+      Geany
     </td>
     <td>
       Mengetik script menggunakan bahasa C#
