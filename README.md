@@ -1,7 +1,7 @@
 # Uno Stacko / Menumpuk Kotak Uno
 Game Uno Stacko yang telah kami rancang yang bertujuan untuk memenuhi tugas akhir mata kuliah Grafika Komputer.
 
-## Kelompok 16 P2 Grafika Komputer
+## Tim 16 P2 Grafika Komputer
 
 Anggota Tim :
 - Fransiscus Prihandisha Triandi (G64180081)
