@@ -105,3 +105,5 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
     	Intel Core i7-8550u (6M Cache, up to 3.80 GHz)
     </td>
 </table>
+
+## Screenshot
