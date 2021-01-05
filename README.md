@@ -136,7 +136,15 @@ Aset yang kami ambil dari internet :
       GitHub
     </td>
     <td>
-    	Platform Dokumentasi
+    	Platform Dokumentasi Projek
+    </td>
+      </tr>
+    <tr>
+      <td>
+      Platform Android
+    </td>
+    <td>
+    	Untuk dapat dibuild & dimainkan di android
     </td>
 </table>
 
