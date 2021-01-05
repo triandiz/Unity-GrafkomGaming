@@ -68,10 +68,17 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
 </table>
 
 ## List Aset 
+Semua aset kecuali gedung dan logo game, kami membuatnya sendiri dengan menggunakan aplikasi photoshop
+- Logo Game
+- Latar Menu 
 - Background
+- Gedung
 - Lahan/Landasan
 - Kotak Uno/Box
-- Tombol Restart
+- Pesawat
+- Roket
+- Planet
+- Astronot
 
 ## Tech-Stack
 <table>
