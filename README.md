@@ -144,7 +144,7 @@ Aset yang kami ambil dari internet :
       Platform Android
     </td>
     <td>
-    	Untuk dapat dibuild & dimainkan di android
+    	Untuk dapat dimainkan di android
     </td>
 </table>
 
