@@ -69,11 +69,10 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
 
 ## List Aset 
 Aset yang dibuat oleh kami menggunakan aplikasi photoshop :
-- Latar Menu 
-- Background
+- Latar Menu / Background
 - Lahan/Landasan
 - Kotak Uno/Box
-- Bulan 
+- Langit
 - Pesawat
 - Roket
 - Planet
@@ -82,6 +81,7 @@ Aset yang dibuat oleh kami menggunakan aplikasi photoshop :
 Aset yang kami ambil dari internet :
 - Gedung
 - Logo Game
+- Bulan
 
 ## Tech-Stack
 <table>
@@ -153,3 +153,6 @@ Aset yang kami ambil dari internet :
 ![Uno Stacko Tower 05_01_2021 20_28_05](https://user-images.githubusercontent.com/60084283/103652006-0656b800-4f95-11eb-9c9f-3603686fc365.png)
 ![Uno Stacko Tower 05_01_2021 20_28_33](https://user-images.githubusercontent.com/60084283/103652022-0bb40280-4f95-11eb-97cd-f920864119c6.png)
 ![Uno Stacko Tower 05_01_2021 20_28_45](https://user-images.githubusercontent.com/60084283/103652037-0fe02000-4f95-11eb-909b-e64d7b368ce2.png)
+
+## Behind The Scene
+![Uno Stack - SampleScene - PC, Mac   Linux Standalone - Unity 2019 4 13f1 Personal _DX11_ 05_01_2021 20_59_34](https://user-images.githubusercontent.com/60084283/103654837-fd67e580-4f98-11eb-858c-2bf041ca3e8b.png)
