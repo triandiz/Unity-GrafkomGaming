@@ -68,11 +68,9 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
 </table>
 
 ## List Aset 
-Semua aset kecuali gedung dan logo game, kami membuatnya sendiri dengan menggunakan aplikasi photoshop
-- Logo Game
+Aset yang dibuat oleh kami menggunakan aplikasi photoshop :
 - Latar Menu 
 - Background
-- Gedung
 - Lahan/Landasan
 - Kotak Uno/Box
 - Bulan 
@@ -80,6 +78,10 @@ Semua aset kecuali gedung dan logo game, kami membuatnya sendiri dengan mengguna
 - Roket
 - Planet
 - Astronot
+
+Aset yang kami ambil dari internet :
+- Gedung
+- Logo Game
 
 ## Tech-Stack
 <table>
