@@ -75,6 +75,7 @@ Semua aset kecuali gedung dan logo game, kami membuatnya sendiri dengan mengguna
 - Gedung
 - Lahan/Landasan
 - Kotak Uno/Box
+- Bulan 
 - Pesawat
 - Roket
 - Planet
