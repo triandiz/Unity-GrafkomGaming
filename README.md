@@ -114,6 +114,30 @@ Aset yang kami ambil dari internet :
     <td>
     	Intel Core i7-8550u (6M Cache, up to 3.80 GHz)
     </td>
+       </tr>
+    <tr>
+      <td>
+      Unity Hub 2.4.2
+    </td>
+    <td>
+    	Platform Kolaborasi Projek
+    </td>
+      </tr>
+    <tr>
+      <td>
+      Photoshop CS6
+    </td>
+    <td>
+    	Membuat Aset untuk game
+    </td>
+      </tr>
+    <tr>
+      <td>
+      GitHub
+    </td>
+    <td>
+    	Platform Dokumentasi
+    </td>
 </table>
 
 ## Screenshot
